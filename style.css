@@ -8,14 +8,39 @@ body {
 
 header {
     background: #ebebeb;
-    padding: 40px;
+    padding: 30px;
     text-align: center;
-    margin: 30px;
+    margin: 10px;
+    float: center;
 }
 
 nav {
     background: #ebebeb;
     text-align: center;
+    padding: 30px;
+    margin: 10px;
+}
+
+section {
+    background: #ebebeb;
+    float: left;
+    text-align: center;
     padding: 40px;
-    margin: 30px;
+    width: 40%;
+    margin: 10px;
+}
+
+.aside {
+    background: #ebebeb;
+    float: right;
+    padding: 40px;
+    width: 30%;
+    margin: 10px;
+}
+
+.footer {
+    background: #ebebeb;
+    float: bottom;
+    padding: 30px;
+    text-align: center;
 }
